@@ -1,0 +1,14 @@
+[
+    {
+      "Mobilisten Version": "3.0.0",
+      "xcode_version": "11.1"
+    },
+    {
+      "Mobilisten Version": "3.0.1",
+      "xcode_version": "11.2.1/11.3.x"
+    },
+    {
+      "Mobilisten Version": "3.0.2",
+      "xcode_version" : "11.4 and above"
+    }
+   ]
